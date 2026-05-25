@@ -6,7 +6,7 @@
 # Usage: bash messy-docs-setup.sh [target_dir]
 # Default: ~/messy-docs-activity
 #
-# Repository: https://github.com/YOUR-USERNAME/openclaw-cleanup-activity
+# Repository: https://github.com/aslammpaata/openclaw-cleanup-activity
 #
 
 set -e
