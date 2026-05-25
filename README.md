@@ -31,7 +31,7 @@ This folder contains teaching materials for a hands-on activity demonstrating de
    ```bash
    bash messy-docs-setup.sh
    ```
-3. Open OpenClaw web chat (usually http://localhost:3456)
+3. Open OpenClaw web chat (usually http://localhost:3456) or Host OpenClaw through terminal.
 4. Follow the prompts in `student-worksheet.md`
 
 ---
@@ -62,7 +62,7 @@ This folder contains teaching materials for a hands-on activity demonstrating de
 
 - OpenClaw installed
 - MOR Gateway API key configured
-- Web chat access (localhost:3456)
+- Web chat access (localhost:3456) or Terminal Access
 - Bash terminal access
 
 ---
@@ -75,7 +75,7 @@ To make the setup script easily accessible:
 2. Upload `messy-docs-setup.sh`
 3. Students can run:
    ```bash
-   curl -fsSL https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/messy-docs-setup.sh | bash
+   curl -fsSL https://raw.githubusercontent.com/aslammpaata/openclaw-cleanup-activity/main/messy-docs-setup.sh | bash
    ```
 
 ---
